@@ -1,0 +1,19 @@
+body{
+    background: #e9e8e8;
+}
+
+.foto{
+    width: 200px;
+    border: 5px solid  #ffffff; /*estilo mais usado "shorthand"*/
+    border-radius: 100% 20% 100% 20%;
+    /*
+    border-width: 5px
+    border-style: solid
+    borde-color: black
+    */
+
+}
+
+p{
+    color: #2c2b2b;
+}
