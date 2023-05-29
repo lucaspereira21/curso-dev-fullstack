@@ -1,0 +1,36 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+
+    height: 600px;
+    background: silver;
+}
+
+.caixa{
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    flex-grow: 3;
+    background-color: red;
+}
+
+.blue {
+    flex-grow: 2;
+    background-color: blue;
+}
+
+.yellow {
+    flex-grow: 5;
+    background-color: yellow;
+}
+
+.green {
+    flex-grow: 2;
+    background-color: green;
+}
